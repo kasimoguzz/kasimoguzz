@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kasimoguzz&label=Profile%20views&color=0e75b6&style=flat" alt="kasimoguzz" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammed Kasım</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">👨🏻‍💻  About Me</h3>
@@ -16,6 +17,7 @@
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=kasimoguzz&show_icons=true&locale=en" alt="kasimoguzz" /> 
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasimoguzz&show_icons=true&locale=en&layout=compact" alt="kasimoguzz" /> 
+
 
 
 
