@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kasimoguzz&label=Profile%20views&color=0e75b6&style=flat" alt="kasimoguzz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasimoguzz&label=Profile%20views&color=0e75b6&style=flat" alt="kasimoguzz" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammed Kasım</h1>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">👨🏻‍💻  About Me</h3>
