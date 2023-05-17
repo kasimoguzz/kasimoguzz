@@ -31,7 +31,7 @@
 <br/>  
 
 <div align="center">
-![Profile views counter](https://komarev.com/ghpvc/?username=kasimoguzz&&style=flat-square)  
+<img src="https://komarev.com/ghpvc/?username=kasimoguzz&&style=flat-square" align="center" />
 </div> 
 
 ## Github Stats  
