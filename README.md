@@ -5,21 +5,20 @@
 
 <img align="right" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### <div align="center"> </div>
+### <div>
   
 
-- 🔭  I’m currently learning javascript  
+#### 🔭  I’m currently learning javascript and Node.js
   
 
-- 🌱  I like to explore new technologies and develop software solutions.  
+#### 🌱  I like to explore new technologies and develop software solutions.  
   
 
-- ❓ How to reach me muhammedkasimoguz@gmail.com  
+#### ❓ How to reach me muhammedkasimoguz@gmail.com  
   
-
-- 🎓 I'm currently studying Computer Programing at the Ondokuz Mayis University.  
+#### 🎓 I'm currently studying Computer Programing at the Ondokuz Mayis University.  
    
-
+ </div>
 
 
 # 💻 Tech Stack:
