@@ -3,7 +3,7 @@
 
 # 👨 About Me
 
-<img align="right" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### <div>
   
