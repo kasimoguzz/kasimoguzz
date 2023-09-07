@@ -9,7 +9,7 @@
   
 🎓 &nbsp; I'm currently studying Computer Programing at the Ondokuz Mayis University. 
  
-🔭 &nbsp; I’m currently learning javascript and Node.js
+🔭 &nbsp; I’m currently learning react
   
 🌱 &nbsp; I like to explore new technologies and develop software solutions.  
   
