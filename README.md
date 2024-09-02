@@ -7,7 +7,6 @@
 
 
   
-🎓 &nbsp; I'm currently studying Computer Programing at the Ondokuz Mayis University. 
  
 🔭 &nbsp; I’m currently learning react
   
