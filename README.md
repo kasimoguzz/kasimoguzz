@@ -1,56 +1,89 @@
- <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"></img>
-<h1 align="center">Hi 👋, I'm Muhammed Kasım</h1>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-  
- 
-🔭 &nbsp; I’m currently learning react
-  
-🌱 &nbsp; I like to explore new technologies and develop software solutions.  
-  
-❓&nbsp; How to reach me muhammedkasimoguz@gmail.com  
-  
- 
-   
- 
-
-
-### 💻 &nbsp; Tech Stack
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<br/>  
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
+# 👋 Hi, I'm Muhammed Kasım Oğuz
 
 <p align="center">
-<a href="https://github.com/kasimoguzz">
-  <img src="https://komarev.com/ghpvc/?username=kasimoguzz&label=Views&color=blue&style=plastic" />
-  <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kasimoguzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kasimoguzz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer+in+Progress;Learning+React+%26+Full-Stack+Development;Exploring+Artificial+Intelligence;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kasimoguzz">
+    <img src="https://komarev.com/ghpvc/?username=kasimoguzz&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
-  
+- 🎓 I'm a university student passionate about software development.
+- 🌱 Currently learning **React** and improving my programming skills.
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and AI-powered applications**.
+- 💻 Exploring full-stack development and modern software technologies.
+- 🧠 I enjoy solving problems, learning new concepts, and building practical projects.
+- 🎯 My goal is to become a skilled software engineer and develop meaningful products.
+- 📫 Reach me at **[muhammedkasimoguz@gmail.com](mailto:muhammedkasimoguz@gmail.com)**
 
- 
+---
 
-  
+## 🛠️ Tech Stack
 
- 
+### Languages
 
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,dart,html,css" alt="Programming Languages" />
+</p>
 
+### Frameworks & Libraries
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,express" alt="Frameworks and Libraries" />
+</p>
 
+### Backend & Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql" alt="Backend and Databases" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kasimoguzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimoguzz&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimoguzz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimoguzz&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:muhammedkasimoguz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kasimoguzz">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
