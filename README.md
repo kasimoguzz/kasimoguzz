@@ -59,17 +59,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimoguzz&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimoguzz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
 
----
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimoguzz&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
